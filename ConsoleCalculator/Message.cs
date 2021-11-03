@@ -23,7 +23,6 @@
         // Style message.
         public static string Welcome = "|| Welcome!";
         public static string Bye = "|| Goodbye!";
-        public static string Space = "||";
         public static string Line = "||===========================================";
     }
 }
